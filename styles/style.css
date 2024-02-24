@@ -127,8 +127,13 @@ body{
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 50px;
     }
     
+    .cabecalho__menu__link {
+        font-size: 1.4rem;
+    }
+
     .apresentacao {
         flex-direction: column-reverse;
         padding: 5%;
@@ -136,5 +141,9 @@ body{
 
     .apresentacao__conteudo {
         width: 90%;
+    }
+
+    .apresentacao__links__ancora {
+        font-size: 1.1rem;
     }
 }
