@@ -38,6 +38,10 @@ body{
     text-decoration: none;
 }
 
+.cabecalho__menu__link:hover {
+    font-weight: 800;
+}
+
 .apresentacao{
     padding: 5% 15%;
     display: flex;
