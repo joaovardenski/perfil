@@ -114,6 +114,10 @@ body{
     background-color: var(--cor-hover);
 }
 
+.projetos__link:hover {
+    font-weight: 900;
+}
+
 .rodape {
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
